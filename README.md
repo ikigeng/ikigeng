@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Stephan 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikigeng&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+Happy to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br>
 My name is Shyayet and I'm a computer science student. Here's some info about me!
 
 ⚡ Relevant Work Experience: <br>
@@ -25,6 +23,11 @@ My name is Shyayet and I'm a computer science student. Here's some info about me
 💬 Reach me by email or LinkedIn! shyayetikilama@outlook.com | www.linkedin.com/in/shyayet-s-l-g-3b83b7102
 
 📫 Visit my website: _Temporarily Offline_
+<br>
+
+My GitHub Stats<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikigeng&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <!--
 **ikigeng/ikigeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
