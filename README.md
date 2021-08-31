@@ -3,7 +3,7 @@
 My name is Shyayet and I'm a computer science student. Here's some info about me!
 
 ⚡ Relevant Work experience: <br>
-- Part-Time Software Developer at BLUE-BRAIN AGRO & ALLIED SERVICES LTD. [FCT, Nigeria. <!--Mar-Now-->Spring 2021 - Current]
+- Part-Time Software Developer at BLUE-BRAIN AGRO & ALLIED SERVICES LTD. [*Remote* FCT, Nigeria. <!--Mar-Now-->Spring 2021 - Current]
 - Networking Teaching Assistant intern at NIIT - Comptia N+ & A+. [FCT, Nigeria. <!--Jul-Sept-->Summer 2020]
 - Software Engineer intern at G-Consulting Services. [FCT, Nigeria. <!--Jul-Sept-->Summer 2021]
 - Web Development & Management intern at G-Consulting Services. [FCT, Nigeria.<!--Sept--> Autumn 2021]
