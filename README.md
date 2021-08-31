@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 My name is Shyayet and I'm a computer science student. Here's some info about me!
 
 ⚡ Relevant Work experience: <br>
@@ -11,7 +12,8 @@ My name is Shyayet and I'm a computer science student. Here's some info about me
 
 🔭 Current project: 
 - ReactJs Blog
-<!--- Company Website (g-consulting services) (ReactJS + Python/Django). -->
+<!--- Company Website Revamp (g-consulting services) (ReactJS + Python/Django). -->
+<!--- Company Website Revamp (Blue-brain) (ReactJS + Python/Django). -->
 
 🌱 Interests:
 - Web development.
