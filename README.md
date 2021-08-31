@@ -3,7 +3,7 @@
 Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br>
 My name is Shyayet and I'm a computer science student. Here's some info about me!
 
-⚡ Relevant Work experience: <br>
+⚡ Relevant Work Experience: <br>
 - Part-Time Software Developer at BLUE-BRAIN AGRO & ALLIED SERVICES LTD. [_Remote_. <!--Mar-Now-->Spring 2021 - Current]
 - Networking Teaching Assistant intern at NIIT - Comptia N+ & A+. [FCT, Nigeria. <!--Jul-Sept-->Summer 2020]
 - Software Engineer intern at G-Consulting Services. [FCT, Nigeria. <!--Jul-Sept-->Summer 2021]
@@ -20,9 +20,9 @@ My name is Shyayet and I'm a computer science student. Here's some info about me
 - Cyber/Information Security.
 - Podcasting.
 
-💬 Reach me by email or LinkedIn! ***TBA***@gmail.com | www.linkedin.com/in/shyayet-s-l-g-3b83b7102
+💬 Reach me by email or LinkedIn! shyayetikilama@outlook.com | www.linkedin.com/in/shyayet-s-l-g-3b83b7102
 
-
+📫 Visit my website: _Temporarily Offline_
 <!--
 **ikigeng/ikigeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
