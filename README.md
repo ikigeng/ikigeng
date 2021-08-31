@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br>
 My name is Shyayet and I'm a computer science student. Here's some info about me!
 
 ⚡ Relevant Work Experience: <br>
