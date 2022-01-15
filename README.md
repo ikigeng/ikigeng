@@ -11,16 +11,16 @@ My name is Shyayet and I'm a computer science student. Here's some info about me
 
 
 🔭 Current project: 
-- ReactJs Blog
+- Haitus
 <!--- Company Website Revamp (g-consulting services) (ReactJS + Python/Django). -->
 <!--- Company Website Revamp (Blue-brain) (ReactJS + Python/Django). -->
 
 🌱 Interests:
-- Web development.
+- Blockchain.
 - Cyber/Information Security.
 - Podcasting.
 
-💬 Reach me by email or LinkedIn! shyayetikilama@outlook.com | www.linkedin.com/in/shyayet-s-l-g-3b83b7102
+💬 Reach me by email or LinkedIn! shyayetikilama@outlook.com
 
 <!--📫 Visit my website: _Temporarily Offline_ <br>-->
 
