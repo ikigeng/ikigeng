@@ -6,8 +6,8 @@
 
 🌱 Interests:
 - Blockchain.
-- Cyber/Information Security.
-- Podcasting.
+- Information Security.
+
 
 <!-- 💬 Reach me by email -->
 
