@@ -1,6 +1,6 @@
 ### Hi there👋
 
-Happy to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <br>
+Happy to have you here!<br>
 
 🔭 Current project: 
 - Haitus
@@ -16,7 +16,7 @@ Happy to have you here! ![visitors](https://visitor-badge.glitch.me/badge?page_i
 <!--📫 Visit my website: _Temporarily Offline_ <br>-->
 
 
-:bar_chart: My GitHub Stats :trollface:<br>
+My GitHub Stats :trollface:<br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikigeng&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikigeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
