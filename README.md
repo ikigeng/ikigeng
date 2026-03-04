@@ -31,5 +31,6 @@ Builder at the intersection of cybersecurity, trading systems, and Web3. Current
 
 Always interested in talking security research, trading systems, or Web3 infrastructure.
 
+<!--
 My GitHub Stats :trollface:<br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikigeng&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true" />
+-->
