@@ -1,20 +1,20 @@
 # Hey, I'm Stephan
 
-Builder at the intersection of cybersecurity, trading systems, and Web3. Currently finishing a postgraduate cybersecurity program while shipping tools and breaking things (with permission).
+Builder at the intersection of cybersecurity, trading systems, and Web3. Currently shipping tools and breaking things (with permission).
 
-## What I'm working on
+## What I'm working on currently
 
-**Security Research** — Bug bounty hunting focused on cryptocurrency exchanges. Building recon frameworks and testing methodologies for Web3 targets.
+**Security Research** — Bug bounty hunting focused mostly on exchanges. Building recon frameworks and testing methodologies for Web3 targets.
 
-**Trading Infrastructure** — Hybrid trading bots combining technical analysis with AI-powered signal filtering. Python, ccxt, and Claude API.
+<!-- **Trading Infrastructure** — Hybrid trading bots combining technical analysis with AI-powered signal filtering. Python, ccxt, and Claude API.
 
 **Web3 Tools** — Solana wallet management, smart contract security analysis, and blockchain forensics tooling.
 
-**██████ ████████** — Co-founding something at the intersection of private equity and ██████████. If you know, you know.
+**██████ ████████** — Co-founding something at the intersection of private equity and ██████████. If you know, you know. -->
 
 ## Tech
 
-`Python` `JavaScript` `React` `Solidity` `Bash` `SQL` `Java`
+`Python` `JavaScript` `React` `Solidity` `Bash` `SQL` `Java` Mainly
 
 **Security:** OWASP ZAP · Burp Suite · Nuclei · Nmap · Subfinder  
 **Trading:** ccxt · pandas-ta · vectorbt · Bybit/Binance APIs  
@@ -22,14 +22,13 @@ Builder at the intersection of cybersecurity, trading systems, and Web3. Current
 
 ## Currently
 
-- Completing postgraduate cybersecurity studies (graduating 2026)
 - Co-founder at ██████ ████████ — ████████ ██████ targeting ████████ & ████████ family offices
 - Authorized bug bounty research on mid-tier crypto exchanges
-- Building algorithmic trading systems for crypto perps and futures (for fun & for profit)
+- Building algorithmic trading systems for crypto perps and futures (for fun)
 
 ## Connect
 
-Always interested in talking security research, trading systems, or Web3 infrastructure.
+Always interested in talking security research, trading & finance systems, or Web3 infrastructure.
 
 <!--
 My GitHub Stats :trollface:<br>
