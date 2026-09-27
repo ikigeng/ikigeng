@@ -1,6 +1,6 @@
 # Hey, I'm Stephan
 
-Builder at the intersection of cybersecurity, trading systems, and Web3. Currently shipping tools and breaking things (with permission).
+Building at the intersection of cybersecurity, trading systems, and Web3. Currently shipping tools and breaking things (with permission).
 
 ## What I'm working on currently
 
